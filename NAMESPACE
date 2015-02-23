@@ -1,0 +1,2 @@
+S3method(summary,whc)
+export(whc)
